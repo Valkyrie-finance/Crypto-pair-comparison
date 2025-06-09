@@ -1,6 +1,6 @@
 # Crypto Pair Comparison Tool
 
-This tool analyzes and compares cryptocurrency pairs for trading strategies, including beta-neutral and delta-neutral approaches. It fetches historical price data from Binance, Hyperliquid, and Yahoo Finance, and provides statistical analysis and trading recommendations.
+This tool analyzes and compares two different crypto symbols performance relative to each other and BTC price. It also calculates the beta of the coins relative to BTC and compare between beta-neutral and delta-neutral approaches. It fetches historical price data from Binance, Hyperliquid, and Yahoo Finance, and provides statistical analysis and trading recommendations.
 
 ## Features
 - Beta calculation relative to BTC
