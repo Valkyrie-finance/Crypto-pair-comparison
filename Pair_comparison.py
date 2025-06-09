@@ -1,5 +1,5 @@
 # Symbol definitions - Edit these to analyze different pairs
-SYMBOL1 = "HYPE"  # First symbol to analyze (Gold futures)
+SYMBOL1 = "HYPE"  # First symbol to analyze 
 SYMBOL2 = "XLM"  # Second symbol to analyze
 SYMBOL = "XRP"   # Single symbol for beta analysis
 
