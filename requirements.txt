@@ -4,4 +4,3 @@ requests
 yfinance
 datetime
 typing
-functools 
