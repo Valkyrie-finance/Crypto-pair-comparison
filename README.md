@@ -1,10 +1,11 @@
 # Crypto Pair Comparison Tool
 
-This tool analyzes the relationship, beta, and correlation between two crypto assets using historical price data from Binance, Hyperliquid, or Yahoo Finance. It helps you understand the risk and return profile of trading pairs and provides strategy recommendations.
+This tool analyzes the performance, beta, and correlation between two crypto assets using historical price data from Binance, Hyperliquid, or Yahoo Finance. It also measures the consistency of its performance vs BTC price. 
 
 ## Features
 - Calculates beta and correlation between two assets
 - Analyzes pair trading strategies (delta neutral, beta neutral)
+- Analyzes performance vs BTC price 
 - Uses rolling historical price data
 - Outputs performance metrics and recommendations
 
